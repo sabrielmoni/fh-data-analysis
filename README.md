@@ -1,8 +1,18 @@
-# Data Analysis Project: The history of the modern Olympic Games
-## 📖 Project Overview
+# 📊 Data Analysis Project: The History of the Modern Olympic Games
+### 📖 Project Overview
+This project is the final submission for the "Data Analysis with Python" course at Salzburg University of Applied Sciences. The dataset provides a unique opportunity to analyze the evolution of the Olympic Games, focusing on key trends such as the participation and performance of women, national achievements, and the progression of different sports over time.
 
-Final project of the course **“Data Analysis with Python”** presented at the Salzburg University of Applied Sciences is shown here. Throughout the course we used various libraries and frameworks for evaluating different data, ending with this project which was presented in a special event at the university.
+In this analysis, I specifically explore the history of Argentine women in the Olympic Games, highlighting their participation and achievements through data-driven visualizations and insights.
 
-This dataset provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events. The goal is to present my findings and insights in a visual format using charts, graphs, or infographics.
+### 🛠 Tools & Technologies
+- Python: Pandas, Matplotlib, Seaborn, Plotly, Geopandas
+- Jupyter Notebook for interactive data exploration
+- Data storytelling through visualizations
 
-**In this occasion, let me take you on a walk through the participation of Argentine women in the history of the Olympic Games :)**
+### 🎯 Key Insights
+✔️ How has female participation in the Olympics evolved?
+✔️ What are the top sports for Argentine female athletes?
+✔️ How does Argentina compare to other South American countries?
+
+### 🚀 Why This Project?
+I'm motivated by improving my ability to work with real-world datasets, clean and process data, and extract meaningful insights through visualization. This reflects my work in analytical thinking and proficiency in Python for data analysis—key skills for data-related roles.
