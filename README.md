@@ -1,4 +1,4 @@
-# 📊 Data Analysis Project: The History of the Modern Olympic Games
+# 📊 The History of the Modern Olympic Games: Argentine women's footprint
 ### 📖 Project Overview
 This project is the final submission for the "Data Analysis with Python" course at Salzburg University of Applied Sciences. The dataset provides a unique opportunity to analyze the evolution of the Olympic Games, focusing on key trends such as the participation and performance of women, national achievements, and the progression of different sports over time.
 
